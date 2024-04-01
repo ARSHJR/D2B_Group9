@@ -1,0 +1,401 @@
+[{
+  "a_id": 1,
+  "f_name": "Tillie",
+  "l_name": "Tumpane",
+  "email": "ttumpane0@google.nl",
+  "netWorth": 925295,
+  "a_Genre": "Comedy",
+  "a_Label": "Fadel-Terry"
+}, {
+  "a_id": 2,
+  "f_name": "Joannes",
+  "l_name": "Adney",
+  "email": "jadney1@forbes.com",
+  "netWorth": 123124,
+  "a_Genre": "Crime|Drama|Romance",
+  "a_Label": "Paucek-Lindgren"
+}, {
+  "a_id": 3,
+  "f_name": "Sheelah",
+  "l_name": "Roslen",
+  "email": "sroslen2@nasa.gov",
+  "netWorth": 609487,
+  "a_Genre": "Documentary",
+  "a_Label": "Batz-Koss"
+}, {
+  "a_id": 4,
+  "f_name": "Emmey",
+  "l_name": "Albro",
+  "email": "ealbro3@archive.org",
+  "netWorth": 2223,
+  "a_Genre": "Drama",
+  "a_Label": "Dickinson, Roberts and Gutkowski"
+}, {
+  "a_id": 5,
+  "f_name": "Tatiana",
+  "l_name": "Teece",
+  "email": "tteece4@mozilla.org",
+  "netWorth": 999000,
+  "a_Genre": "Drama",
+  "a_Label": "Jones LLC"
+}, {
+  "a_id": 6,
+  "f_name": "Karlyn",
+  "l_name": "Bassam",
+  "email": "kbassam5@bandcamp.com",
+  "netWorth": 869264,
+  "a_Genre": "Action|Crime|Drama",
+  "a_Label": "O'Kon, Quitzon and Sawayn"
+}, {
+  "a_id": 7,
+  "f_name": "Matelda",
+  "l_name": "Frizell",
+  "email": "mfrizell6@webs.com",
+  "netWorth": 52611,
+  "a_Genre": "Adventure",
+  "a_Label": "Zieme-Daniel"
+}, {
+  "a_id": 8,
+  "f_name": "Willey",
+  "l_name": "Betho",
+  "email": "wbetho7@wsj.com",
+  "netWorth": 239239,
+  "a_Genre": "Comedy",
+  "a_Label": "Kuhlman Inc"
+}, {
+  "a_id": 9,
+  "f_name": "Julina",
+  "l_name": "Czapla",
+  "email": "jczapla8@artisteer.com",
+  "netWorth": 77568,
+  "a_Genre": "Action|Drama|Romance",
+  "a_Label": "Graham-Bechtelar"
+}, {
+  "a_id": 10,
+  "f_name": "Brnaby",
+  "l_name": "Embling",
+  "email": "bembling9@senate.gov",
+  "netWorth": 36541,
+  "a_Genre": "Documentary",
+  "a_Label": "Bergstrom-Yundt"
+}, {
+  "a_id": 11,
+  "f_name": "Farley",
+  "l_name": "O'Sullivan",
+  "email": "fosullivana@bloglovin.com",
+  "netWorth": 810115,
+  "a_Genre": "Comedy|Western",
+  "a_Label": "Towne-Fahey"
+}, {
+  "a_id": 12,
+  "f_name": "Miof mela",
+  "l_name": "Rabson",
+  "email": "mrabsonb@washington.edu",
+  "netWorth": 373279,
+  "a_Genre": "Action|Thriller",
+  "a_Label": "Herman-Flatley"
+}, {
+  "a_id": 13,
+  "f_name": "Ernest",
+  "l_name": "Kew",
+  "email": "ekewc@nifty.com",
+  "netWorth": 853402,
+  "a_Genre": "Animation|Drama",
+  "a_Label": "Homenick-Dibbert"
+}, {
+  "a_id": 14,
+  "f_name": "Abbye",
+  "l_name": "Goskar",
+  "email": "agoskard@hc360.com",
+  "netWorth": 719901,
+  "a_Genre": "Drama",
+  "a_Label": "Bailey, Haley and Kunze"
+}, {
+  "a_id": 15,
+  "f_name": "Agathe",
+  "l_name": "Bernet",
+  "email": "abernete@skyrock.com",
+  "netWorth": 713262,
+  "a_Genre": "Comedy|Drama",
+  "a_Label": "Beahan-Howell"
+}, {
+  "a_id": 16,
+  "f_name": "Terrell",
+  "l_name": "Bleackly",
+  "email": "tbleacklyf@harvard.edu",
+  "netWorth": 93578,
+  "a_Genre": "Action|Adventure|Animation|Children|Comedy|Fantasy",
+  "a_Label": "Stroman, Huel and Kautzer"
+}, {
+  "a_id": 17,
+  "f_name": "Corilla",
+  "l_name": "Aylmore",
+  "email": "caylmoreg@google.nl",
+  "netWorth": 528704,
+  "a_Genre": "Crime|Drama|Thriller",
+  "a_Label": "Conroy-Kuhn"
+}, {
+  "a_id": 18,
+  "f_name": "Sylas",
+  "l_name": "McCorkindale",
+  "email": "smccorkindaleh@parallels.com",
+  "netWorth": 17034,
+  "a_Genre": "Drama|Romance",
+  "a_Label": "Reynolds LLC"
+}, {
+  "a_id": 19,
+  "f_name": "Lauryn",
+  "l_name": "Pickrill",
+  "email": "lpickrilli@buzzfeed.com",
+  "netWorth": 578317,
+  "a_Genre": "Drama|Musical|Romance",
+  "a_Label": "Stoltenberg, Runte and Howell"
+}, {
+  "a_id": 20,
+  "f_name": "Harper",
+  "l_name": "Peiro",
+  "email": "hpeiroj@yelp.com",
+  "netWorth": 645499,
+  "a_Genre": "Comedy",
+  "a_Label": "Toy and Sons"
+}, {
+  "a_id": 21,
+  "f_name": "Celestyna",
+  "l_name": "Male",
+  "email": "cmalek@un.org",
+  "netWorth": 21130,
+  "a_Genre": "Comedy|Crime",
+  "a_Label": "White-Weimann"
+}, {
+  "a_id": 22,
+  "f_name": "Adora",
+  "l_name": "Dusting",
+  "email": "adustingl@irs.gov",
+  "netWorth": 907851,
+  "a_Genre": "Horror",
+  "a_Label": "Weber, Mueller and Zboncak"
+}, {
+  "a_id": 23,
+  "f_name": "Scarface",
+  "l_name": "Maffezzoli",
+  "email": "smaffezzolim@indiegogo.com",
+  "netWorth": 797219,
+  "a_Genre": "Comedy|Crime",
+  "a_Label": "Shields Group"
+}, {
+  "a_id": 24,
+  "f_name": "Anatole",
+  "l_name": "Houtbie",
+  "email": "ahoutbien@eventbrite.com",
+  "netWorth": 542768,
+  "a_Genre": "Documentary",
+  "a_Label": "Dicki-Crooks"
+}, {
+  "a_id": 25,
+  "f_name": "Xenos",
+  "l_name": "Beverley",
+  "email": "xbeverleyo@pen.io",
+  "netWorth": 16459,
+  "a_Genre": "Drama",
+  "a_Label": "Reinger, Gerhold and McLaughlin"
+}, {
+  "a_id": 26,
+  "f_name": "Adriaens",
+  "l_name": "Le Blond",
+  "email": "aleblondp@icio.us",
+  "netWorth": 344643,
+  "a_Genre": "Action|Adventure|Fantasy",
+  "a_Label": "Olson-Orn"
+}, {
+  "a_id": 27,
+  "f_name": "Vincenty",
+  "l_name": "Blowing",
+  "email": "vblowingq@hostgator.com",
+  "netWorth": 644803,
+  "a_Genre": "Thriller",
+  "a_Label": "Anderson-Brown"
+}, {
+  "a_id": 28,
+  "f_name": "Guilbert",
+  "l_name": "Farbrother",
+  "email": "gfarbrotherr@sphinn.com",
+  "netWorth": 45668,
+  "a_Genre": "Crime|Drama",
+  "a_Label": "Roob-Ondricka"
+}, {
+  "a_id": 29,
+  "f_name": "Cristian",
+  "l_name": "Meneo",
+  "email": "cmeneos@360.cn",
+  "netWorth": 658228,
+  "a_Genre": "Drama|Romance",
+  "a_Label": "Okuneva LLC"
+}, {
+  "a_id": 30,
+  "f_name": "Amalita",
+  "l_name": "Halahan",
+  "email": "ahalahant@google.co.jp",
+  "netWorth": 333980,
+  "a_Genre": "Documentary",
+  "a_Label": "Mills-Roberts"
+}, {
+  "a_id": 31,
+  "f_name": "Antonio",
+  "l_name": "Le Barr",
+  "email": "alebarru@multiply.com",
+  "netWorth": 725223,
+  "a_Genre": "Drama",
+  "a_Label": "Hamill Group"
+}, {
+  "a_id": 32,
+  "f_name": "Lenna",
+  "l_name": "Kohnert",
+  "email": "lkohnertv@wp.com",
+  "netWorth": 52004,
+  "a_Genre": "Action|Animation|Crime",
+  "a_Label": "Hagenes-Jones"
+}, {
+  "a_id": 33,
+  "f_name": "Harriet",
+  "l_name": "Whitmell",
+  "email": "hwhitmellw@tiny.cc",
+  "netWorth": 652643,
+  "a_Genre": "Drama",
+  "a_Label": "Hand-Kirlin"
+}, {
+  "a_id": 34,
+  "f_name": "Yorgos",
+  "l_name": "Urion",
+  "email": "yurionx@vk.com",
+  "netWorth": 365391,
+  "a_Genre": "Comedy",
+  "a_Label": "Medhurst LLC"
+}, {
+  "a_id": 35,
+  "f_name": "Allyn",
+  "l_name": "Lusgdin",
+  "email": "alusgdiny@infoseek.co.jp",
+  "netWorth": 757463,
+  "a_Genre": "Comedy|Musical",
+  "a_Label": "Smith, Fadel and McLaughlin"
+}, {
+  "a_id": 36,
+  "f_name": "Gloriane",
+  "l_name": "Alenin",
+  "email": "galeninz@ovh.net",
+  "netWorth": 70477,
+  "a_Genre": "Adventure|Children|Fantasy",
+  "a_Label": "Prosacco Inc"
+}, {
+  "a_id": 37,
+  "f_name": "Tyne",
+  "l_name": "Ennever",
+  "email": "tennever10@discovery.com",
+  "netWorth": 496145,
+  "a_Genre": "Drama",
+  "a_Label": "Roberts, Bergnaum and Walker"
+}, {
+  "a_id": 38,
+  "f_name": "Bastien",
+  "l_name": "Moland",
+  "email": "bmoland11@webnode.com",
+  "netWorth": 92550,
+  "a_Genre": "Drama",
+  "a_Label": "Streich and Sons"
+}, {
+  "a_id": 39,
+  "f_name": "Gennie",
+  "l_name": "Iskower",
+  "email": "giskower12@uol.com.br",
+  "netWorth": 677109,
+  "a_Genre": "Crime|Drama",
+  "a_Label": "Turner Group"
+}, {
+  "a_id": 40,
+  "f_name": "Linnea",
+  "l_name": "Meredyth",
+  "email": "lmeredyth13@illinois.edu",
+  "netWorth": 807899,
+  "a_Genre": "Action|Thriller",
+  "a_Label": "Hayes-Kutch"
+}, {
+  "a_id": 41,
+  "f_name": "Bordy",
+  "l_name": "Rochelle",
+  "email": "brochelle14@1688.com",
+  "netWorth": 632499,
+  "a_Genre": "Action|Comedy",
+  "a_Label": "Carter, Roob and Torphy"
+}, {
+  "a_id": 42,
+  "f_name": "Atalanta",
+  "l_name": "Reburn",
+  "email": "areburn15@tamu.edu",
+  "netWorth": 6265,
+  "a_Genre": "Comedy|Drama|Romance",
+  "a_Label": "Hauck LLC"
+}, {
+  "a_id": 43,
+  "f_name": "Tyler",
+  "l_name": "Brigginshaw",
+  "email": "tbrigginshaw16@go.com",
+  "netWorth": 19235,
+  "a_Genre": "Comedy",
+  "a_Label": "Murray and Sons"
+}, {
+  "a_id": 44,
+  "f_name": "Godfrey",
+  "l_name": "Inston",
+  "email": "ginston17@ustream.tv",
+  "netWorth": 542356,
+  "a_Genre": "Mystery|Thriller",
+  "a_Label": "Toy and Sons"
+}, {
+  "a_id": 45,
+  "f_name": "Lewes",
+  "l_name": "Winders",
+  "email": "lwinders18@uiuc.edu",
+  "netWorth": 515036,
+  "a_Genre": "Children|Drama",
+  "a_Label": "Brakus-Cassin"
+}, {
+  "a_id": 46,
+  "f_name": "Nappy",
+  "l_name": "Marsie",
+  "email": "nmarsie19@ifeng.com",
+  "netWorth": 586133,
+  "a_Genre": "Adventure|Comedy|Romance",
+  "a_Label": "Pollich, Armstrong and Walsh"
+}, {
+  "a_id": 47,
+  "f_name": "Gertie",
+  "l_name": "Hannaby",
+  "email": "ghannaby1a@qq.com",
+  "netWorth": 29699,
+  "a_Genre": "Comedy|War",
+  "a_Label": "Hackett, Murphy and Mante"
+}, {
+  "a_id": 48,
+  "f_name": "Marice",
+  "l_name": "Dilger",
+  "email": "mdilger1b@diigo.com",
+  "netWorth": 215693,
+  "a_Genre": "Horror",
+  "a_Label": "Runte-Bergstrom"
+}, {
+  "a_id": 49,
+  "f_name": "Selie",
+  "l_name": "Trytsman",
+  "email": "strytsman1c@zdnet.com",
+  "netWorth": 533684,
+  "a_Genre": "Drama",
+  "a_Label": "Kub Group"
+}, {
+  "a_id": 50,
+  "f_name": "Hedwig",
+  "l_name": "Gamlin",
+  "email": "hgamlin1d@instagram.com",
+  "netWorth": 594515,
+  "a_Genre": "Documentary",
+  "a_Label": "Medhurst-Crona"
+}]
